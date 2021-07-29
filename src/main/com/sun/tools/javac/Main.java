@@ -32,6 +32,7 @@ import java.lang.reflect.*;
 /**
  * The programmatic interface for the Java Programming Language
  * compiler, javac.
+ * 参数：/Users/chaoli/intellijWrkSpace/concurrenttest/src/main/java/com/wolf/concurrenttest/utjvm/classload/inovketmpcode/DynamicRunClass.java
  *
  * <p>Except for the two methods
  * {@link #compile(java.lang.String[])}
