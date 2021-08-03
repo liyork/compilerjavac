@@ -22,3 +22,5 @@ a
 1src/main/com/sun/tools/javac/util/ListBuffer.java,1/f/1f1320187d80e140bc642a8ce1e7480df10020e0
 ]
 -src/main/com/sun/tools/javac/tree/JCTree.java,d/b/dbdd1bf2729ade20e8a815754aa1cfbb627514bb
+c
+3src/main/com/sun/tools/javac/main/JavaCompiler.java,e/0/e064c569a09c0c4c9731b2ffa0b7a9aab13539e9
