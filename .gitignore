@@ -1,0 +1,12 @@
+.idea
+*.iml
+._*
+target/
+log/
+work/
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+.metals
